@@ -1,0 +1,10 @@
+relationship 369be32c-477c-490f-9daf-376557ba4ae4
+	joinOnDateBehavior: datePartOnly
+	fromColumn: July.Date
+	toColumn: LocalDateTable_035a174f-3a19-411a-9eaf-936d3b1758fe.Date
+
+relationship 105615fd-2caf-495a-8f69-61e46e5fe175
+	joinOnDateBehavior: datePartOnly
+	fromColumn: July.Time
+	toColumn: LocalDateTable_8a8c56c1-593c-40f7-96ee-0d440f39ccd6.Date
+

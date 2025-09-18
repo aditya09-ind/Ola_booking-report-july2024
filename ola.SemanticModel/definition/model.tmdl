@@ -1,0 +1,28 @@
+model Model
+	culture: en-IN
+	defaultPowerBIDataSourceVersion: powerBI_V3
+	sourceQueryCulture: en-IN
+	dataAccessOptions
+		legacyRedirects
+		returnErrorValuesAsNull
+
+/// Errors in queries that were loaded on 28-08-2025 06:18:42.
+queryGroup 'Query Errors - 28-08-2025 06:18:42'
+
+	annotation PBI_QueryGroupOrder = 0
+
+annotation PBI_QueryOrder = ["July","Errors in July"]
+
+annotation __PBI_TimeIntelligenceEnabled = 1
+
+annotation PBIDesktopVersion = 2.146.1254.0 (25.08)+791a7518fadc83da883d79322a2658aff57c8db3
+
+annotation PBI_ProTooling = ["DevMode"]
+
+ref table July
+ref table DateTableTemplate_42021dac-b49e-4c48-a1f2-f05f33f3e80d
+ref table LocalDateTable_035a174f-3a19-411a-9eaf-936d3b1758fe
+ref table LocalDateTable_8a8c56c1-593c-40f7-96ee-0d440f39ccd6
+
+ref cultureInfo en-IN
+
