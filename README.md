@@ -1,7 +1,7 @@
-  Ola Data Analyst Project
+  Ola Data Analyst Project:
 This project contains a comprehensive analysis of Ola ride-booking data, utilizing SQL for data querying and Power BI for creating an interactive dashboard. The project aims to provide insights into ride volume, booking statuses, customer and driver ratings, revenue, and other key metrics.
 
-Files
+Files:
 
 OLA-Data-Analyst-Project.pdf: This PDF document outlines the project's objectives, detailing a series of SQL and Power BI questions. It also provides the specific SQL queries to answer the questions and lists the columns available in the dataset.
 
@@ -12,7 +12,7 @@ OLA-Data-Analyst-Project.pdf: This PDF document outlines the project's objective
 
 Ola booking.pbit: This is a Power BI Template file that  contains the structure and layout of the project's dashboard.
 
-Data Columns
+Data Columns:
 The analysis is based on a dataset with the following columns:
 
 
@@ -73,7 +73,7 @@ The analysis is based on a dataset with the following columns:
 
 19.Customer_Rating 
 
-SQL Analysis
+SQL Analysis:
 The SQL section of the project focuses on extracting specific data points and insights. Key queries include:
 
 1.Retrieving all successful bookings.
@@ -96,7 +96,7 @@ The SQL section of the project focuses on extracting specific data points and in
 
 10.Listing all incomplete rides along with the reason.
 
-Power BI Dashboard
+Power BI Dashboard:
 The Power BI part of the project is designed to create a visual and interactive report. The planned visualizations cover several key areas:
 
 
